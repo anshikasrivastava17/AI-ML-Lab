@@ -1,4 +1,4 @@
-'''Q1.  Create and access tuples.
+'''Create and access tuples.
 Create a tuple of colors.
 Access elements using indexing.
 Try to modify an element in the tuple (to demonstrate immutability).
